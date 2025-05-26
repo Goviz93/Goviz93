@@ -1,7 +1,7 @@
 <h1 align="center"> Gonzalo Vizcaíno</h1>
 
 <p align="center">
-  <strong>Automation Engineer · DevOps · SRE  </strong>
+  <strong>SRE · DevOps · Automation Engineer </strong>
 </p>
 
 --- 
